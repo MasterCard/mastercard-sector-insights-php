@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="2" assertions="52" failures="0" errors="0" time="1.282145">
+    <testsuite name="MasterCard\Api\SectorInsights\InsightsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SectorInsights-Php/workspace/generated-code/sector-insights/php/sdk/Test/MasterCard/Api/SectorInsights/InsightsTest.php" tests="1" assertions="38" failures="0" errors="0" time="0.840659">
+      <testcase name="test_example_insights" class="MasterCard\Api\SectorInsights\InsightsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SectorInsights-Php/workspace/generated-code/sector-insights/php/sdk/Test/MasterCard/Api/SectorInsights/InsightsTest.php" line="55" assertions="38" time="0.840659"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\SectorInsights\ParametersTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SectorInsights-Php/workspace/generated-code/sector-insights/php/sdk/Test/MasterCard/Api/SectorInsights/ParametersTest.php" tests="1" assertions="14" failures="0" errors="0" time="0.441486">
+      <testcase name="test_example_parameters" class="MasterCard\Api\SectorInsights\ParametersTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SectorInsights-Php/workspace/generated-code/sector-insights/php/sdk/Test/MasterCard/Api/SectorInsights/ParametersTest.php" line="55" assertions="14" time="0.441486"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

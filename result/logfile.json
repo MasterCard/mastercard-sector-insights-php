@@ -1,0 +1,39 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 2
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\SectorInsights\\InsightsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\SectorInsights\\InsightsTest",
+    "test": "MasterCard\\Api\\SectorInsights\\InsightsTest::test_example_insights"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\SectorInsights\\InsightsTest",
+    "test": "MasterCard\\Api\\SectorInsights\\InsightsTest::test_example_insights",
+    "status": "pass",
+    "time": 0.84065914154053,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\SectorInsights\\ParametersTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\SectorInsights\\ParametersTest",
+    "test": "MasterCard\\Api\\SectorInsights\\ParametersTest::test_example_parameters"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\SectorInsights\\ParametersTest",
+    "test": "MasterCard\\Api\\SectorInsights\\ParametersTest::test_example_parameters",
+    "status": "pass",
+    "time": 0.44148588180542,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
