@@ -1,0 +1,6 @@
+MasterCard\Api\SectorInsights\Insights
+ [x] example insights
+
+MasterCard\Api\SectorInsights\Parameters
+ [x] example parameters
+
