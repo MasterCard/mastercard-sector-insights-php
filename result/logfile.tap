@@ -1,0 +1,4 @@
+TAP version 13
+ok 1 - MasterCard\Api\SectorInsights\InsightsTest::test_example_insights
+ok 2 - MasterCard\Api\SectorInsights\ParametersTest::test_example_parameters
+1..2
